@@ -1,6 +1,6 @@
 
 <div align="center"> 
-## Hi there 👋
+Hola, Soy Jonathan👋
 </div>
 
 **JonNauto/JonNauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
